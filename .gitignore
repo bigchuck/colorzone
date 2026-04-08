@@ -5,8 +5,8 @@ __pycache__/
 venv/
 
 # Data (your pattern)
-data/*.json
-!data/meal_plan_config.json
+data/
+out/
 
 # VS Code
 .vscode/
